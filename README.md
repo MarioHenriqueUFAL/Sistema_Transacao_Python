@@ -14,7 +14,7 @@ O sistema permite execcutar várias operações bancárias, tais como:
 
   As transações são armazenadas em um banco de dados PostgreSQL, permitindo que o histórico de transações seja preservado e consultado.
 
-  ## Arquitetura e Design de Código
+## Arquitetura e Design de Código
 
   O sistema é estruturado em torno de uma classe 'ContaBancaria' que representa uma conta bancária individual. Esta classe possui métodos para realizar as operações bancárias listadas acima.
 
@@ -22,7 +22,7 @@ O sistema permite execcutar várias operações bancárias, tais como:
 
   Além disso, a estrutura do código permite a reutilização de consultas SQL e a abstração de detalhes específicos do banco de dados. Cada função tem uma única responsabilidade, tornando o código mais legível e com maior facilidade para operações de manutenção.
 
-  ## Aprendizado
+## Aprendizado
 
   Este projeto permitiu um excelente aprendizado e prática de várias habilidade e conceitos importantes de programação, incluindo:
 
