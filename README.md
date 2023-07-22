@@ -1,4 +1,4 @@
-# Projeto de Sistema de Transação em Python
+# Projeto de Sistema de Transação em Python 💻💵
 
 Este projeto é uma implementação de um sistema simples de transações bancárias, construído em Python, com integração ao banco de dados PostgreSQL. Ele foi desenvolvido como parte do bootcamp [Potência Tech powered by iFood | Ciência de Dados com Python](https://www.dio.me/bootcamp/potencia-tech-powered-ifood-ciencias-de-dados-com-python), promovido pela [dio](https://www.dio.me/), com o objetivo de explorar o uso de Python em um contexto de interação com banco de dados.
 
