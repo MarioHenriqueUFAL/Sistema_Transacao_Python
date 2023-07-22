@@ -6,9 +6,9 @@ Este projeto é uma implementação de um sistema simples de transações bancá
 
   Os requisitos específicos do projeto eram os seguintes:
   
-  * Operação de Depósito: O usuário só pode depositar valores positivos na conta;
-  * Operação de Saque: O sistema deve permitir realizar 3 saques diários com limite máximo de R$ 500,00 por saque. Se o usuário não tem saldo na conta, o sistema deve exibir uma mensagem informando que não é possível sacar o dinheiro por saldo insuficiente. Todos os saques devem ser armazenados e exibidos na operação de extrato;
-  * Operação de Extrato: O sistema deve listar todos os depósitos e saques realizados na conta em uma data especificada. No fim da lista deve ser exibido o saldo atual da conta. Se o extrato estiver em branco, o sistema deve exibir a mensagem: "Não foram realziadas movimentações!".
+  * **Operação de Depósito**: O usuário só pode depositar valores positivos na conta;
+  * **Operação de Saque**: O sistema deve permitir realizar 3 saques diários com limite máximo de R$ 500,00 por saque. Se o usuário não tem saldo na conta, o sistema deve exibir uma mensagem informando que não é possível sacar o dinheiro por saldo insuficiente. Todos os saques devem ser armazenados e exibidos na operação de extrato;
+  * **Operação de Extrato**: O sistema deve listar todos os depósitos e saques realizados na conta em uma data especificada. No fim da lista deve ser exibido o saldo atual da conta. Se o extrato estiver em branco, o sistema deve exibir a mensagem: "Não foram realziadas movimentações!".
 
 ## Características
 
