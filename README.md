@@ -12,7 +12,7 @@ Este projeto é uma implementação de um sistema simples de transações bancá
 
 ## Características
 
-  O sistema permite executar operações de saque, depósito e visualização de extrato, conforme especificado nos requisitos do projeto. As transações são armazenadas em um banco de dados PostgreSQL, permitindo que o histórico de transações seja preservado e consultado.
+  O sistema permite executar operações de saque, depósito e visualização de extrato, conforme especificado nos requisitos do projeto. As transações são armazenadas em um banco de dados PostgreSQL, permitindo que o histórico de transações seja preservado e consultado. Adicionalmente, o sistema é capaz de realizar o cadastro de clientes e contas bancárias.
 
 ## Arquitetura e Design de Código
 
